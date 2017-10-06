@@ -4,6 +4,7 @@
 \#*#
 core
 *.tgz
+.idea
 
 # Node Ignores
 npm-debug.log
@@ -17,10 +18,10 @@ node_modules
 /odpi
 
 # Oracle Ignores
-sqlnet.log
-sqlnet.ora
-tnsnames.ora
-oraaccess.xml
-instantclient
-instantclient_11_2
-instantclient_12_1
+#sqlnet.log
+#sqlnet.ora
+#tnsnames.ora
+#oraaccess.xml
+#instantclient
+#instantclient_11_2
+#instantclient_12_1
